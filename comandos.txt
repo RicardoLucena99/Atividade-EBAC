@@ -1,0 +1,5 @@
+# Tornar o arquivo executável (somente o dono escreve, outros leem)
+chmod 744 calculadora.sh
+
+# Executar o script
+./calculadora.sh
